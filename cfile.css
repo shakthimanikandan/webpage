@@ -1,0 +1,231 @@
+.sri
+{color:white;
+font-size:70px;
+text-align:center;
+border:white dotted;
+background:#B90572;
+ 
+}
+h1
+{
+color:purple;
+text-align:center;
+background:orange;
+}
+h2
+{
+color:yellow;
+text-align:left;
+}
+h3
+ { 
+   color:purple;
+   margin-top:10px;
+text-align:center;
+}
+h4
+ {
+  
+   color:brown;
+ }
+h5
+ {
+   text-align:center; 
+  color:gray;
+
+ }
+body
+ {
+   background-color:#0EEBE8;
+   margin:10%;
+ }
+.k1
+ {
+   color:white;
+    background-color:pink;
+     font-size:30px;
+    line-height:1.5;
+}
+.container
+{
+ margin:5px 15px 5px 15px;
+}
+.name4
+ul
+{
+  
+  list-style-image:url('images/star.png');
+  margin-left:20px;
+}
+.name4
+{  
+   border:5px white solid;
+   border-radius:15px;
+   border-bottom:5px white dotted;
+   padding-left:20px;
+   background-color:orange;
+}
+.name4
+h3
+{text-align:center;
+  text-transform:uppercase;
+  letter-spacing:0.1em;
+  text-decoration:yellow underline;
+   color:white;
+padding-bottom:2px;
+
+}
+.name4 li
+
+{
+  
+  border-bottom:purple 1px dotted;
+  padding-bottom:5px;
+  color:white;
+}
+.name4
+a
+{
+ text-decoration:none;
+}
+a:hover
+{
+  color:white;
+ }
+a:active
+ {
+  color:red;
+ }
+a:visited
+ {
+   color:#B90572;
+ }
+h2
+ol
+{
+
+text-align:none;
+}
+ol
+table
+{
+background:#F0B482;
+border-collapse:collapse;
+}
+.f1
+
+{
+border:white 2px solid;
+padding:5%;
+margin-left:10%;
+}
+.f1
+input
+{padding:5px;
+border:2px solid;
+margin-left:1%;
+}
+.fg
+input[type="number"]
+{padding:5px;
+border:2px solid;
+margin-left:1%;
+}
+.fg
+textarea
+{padding:5px;
+border:2px solid;
+margin-left:1%;
+}
+.fg
+input[type="date"]
+{
+margin-left:1%;
+}
+.fg
+select
+{padding:5px;
+border:2px solid;
+margin-left:1%;
+}
+.f1
+input[type="submit"]
+{
+border:pink 5px solid;
+ background-color:yellow;
+ padding:20px;
+border-radius:15px;
+}
+.f1
+input[type="submit"]:hover
+{
+color:white;
+background-color:red;
+}
+.f1
+input[type="submit"]:active
+{
+color:white;
+background-color:green;}
+.f1
+input[type="submit"]:visited
+{
+color:white;
+background-color:blue;
+}
+
+.f1
+ label
+{
+ text-transform:uppercase;
+ display:block;
+ }
+
+
+.blocks
+{
+float:left;
+width:30%;
+border:white solid 5px;
+padding:10px;
+box-sizing:border-box;
+}
+
+
+.container1
+{display:flex;
+text-align:center;
+   border:white solid;}
+
+.blocks1
+{flex:1;
+border:solid 2px blue;
+order:3;
+ 
+ }
+.blocks2
+{ flex:1;
+border:solid 2px orange;
+order:4;
+}
+.blocks3
+{flex:1;
+border:solid 2px green;
+order:2;
+}
+.blocks4
+{flex:1;
+border:solid 2px red;
+order:1;
+}
+.blocks5
+{flex:1;
+border:solid 2px yellow;
+order:5;
+}
+.list2
+ol
+{
+ display:flex;
+ justify-content:space-between;
+}
